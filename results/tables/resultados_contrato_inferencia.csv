@@ -1,0 +1,6 @@
+caso,resultado,detalhe
+contrato_correto,aceito,100 scores
+coluna_ausente,rejeitado,"feature_names mismatch: ['RevolvingUtilizationOfUnsecuredLines', 'age', 'NumberOfTime30-59DaysPastDueNotWorse', 'DebtRatio', 'MonthlyIncome', 'NumberOfOpenCreditLinesAndLoans', 'Nu"
+ordem_trocada,rejeitado,"feature_names mismatch: ['RevolvingUtilizationOfUnsecuredLines', 'age', 'NumberOfTime30-59DaysPastDueNotWorse', 'DebtRatio', 'MonthlyIncome', 'NumberOfOpenCreditLinesAndLoans', 'Nu"
+texto_invalido,rejeitado,"DataFrame.dtypes for data must be int, float, bool or category. When categorical type is supplied, the experimental DMatrix parameter`enable_categorical` must be set to `True`.  In"
+NaN_em_uma_coluna,aceito,100 scores

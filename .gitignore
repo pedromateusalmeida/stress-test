@@ -1,0 +1,18 @@
+# Dados brutos devem ser obtidos pelo usuário e permanecer locais.
+#data/raw/*
+#!data/raw/.gitkeep
+
+# Ambientes, caches e arquivos temporários.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+tmp/
+*.log
+.DS_Store
+Thumbs.db
+
+# Geradores legados preservados apenas na cópia local; não pertencem ao fluxo público.
+scripts/archive/

@@ -1,0 +1,13 @@
+numpy==2.2.5
+pandas==2.2.3
+scipy==1.15.2
+scikit-learn==1.7.2
+xgboost==3.0.0
+matplotlib==3.10.1
+seaborn==0.13.2
+SALib==1.5.2
+jupyterlab==4.4.1
+ipykernel==6.29.5
+nbformat==5.10.4
+nbclient==0.10.2
+reportlab>=4,<5

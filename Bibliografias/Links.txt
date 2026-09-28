@@ -1,0 +1,11 @@
+https://www.investopedia.com/terms/s/stresstesting.asp
+https://en.wikipedia.org/wiki/Stress_test_(financial)
+https://www.elibrary.imf.org/display/book/9781484368589/9781484368589.xml
+https://arxiv.org/pdf/2310.16524
+https://professores.dcc.ufla.br/~durelli/sites/default/files/papers/transaction_on_reliability.pdf
+https://www.bankofengland.co.uk/prudential-regulation/publication/2018/model-risk-management-principles-for-stress-testing-ss
+https://cran.r-project.org/web/packages/stressor/stressor.pdf
+https://ankura.com/insights/stress-testing-ai-models-a-modern-imperative-for-model-risk-management
+https://www.risk.net/stress-testing-2nd-edition/7084211/stress-testing-applications-of-machine-learning-models
+https://www.linkedin.com/pulse/stress-testing-ai-models-nahuel-alejandro-nucera-h7cke/
+https://www.quantuniversity.com/course-details/ml-stress-testing.html
